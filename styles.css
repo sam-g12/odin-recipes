@@ -1,0 +1,36 @@
+h1 {
+    background-color: tomato;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+p {
+    color: hsl(14, 100%, 50%);
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: lavender;
+}
+
+li {
+    background-color: wheat;
+    color: rgb(0, 89, 255);
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.ingredient-list li {
+    background-color: seagreen;
+    font-family: serif;
+    color: seashell;
+    text-align: center;
+}
+
+.steps-list li {
+    background-color: silver;
+}
